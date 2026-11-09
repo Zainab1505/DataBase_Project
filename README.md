@@ -1,2 +1,2 @@
-# DBS_Project_Ebike_charging_hub
-Database systems project - Smart E-bike Charging Hub Management System
+# DataBase_Project
+Smart E-bike Charging Network Management System
